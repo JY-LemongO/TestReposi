@@ -29,7 +29,8 @@ namespace RtanTextDungeon
             Normal,
             Hard,
             test,
-            test2,
+            test34,
+            test35,
         }
     }
 }
