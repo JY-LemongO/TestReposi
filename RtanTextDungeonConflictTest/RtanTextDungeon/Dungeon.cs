@@ -584,6 +584,10 @@ namespace RtanTextDungeon
                         Console.ForegroundColor = ConsoleColor.Green;
                         Console.WriteLine($"이미 컨디션이 최상입니다!\n");
                         Console.ResetColor();
+                        Console.WriteLine("|__|.-----..-----.");
+                        Console.WriteLine("|__|.-----..-----.");
+                        Console.WriteLine("|  ||     ||     |");
+                        Console.WriteLine("|__||__|__||__|__|");
                     }
                     else
                     {
