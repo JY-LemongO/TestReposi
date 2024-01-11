@@ -563,8 +563,7 @@ namespace RtanTextDungeon
             while (true)
             {                
                 Console.WriteLine(" __               ");
-                Console.WriteLine("|__|.-----..-----.");
-                Console.WriteLine("|__|.-----..-----.");
+                Console.WriteLine("|__|.-----..-----.");                
                 Console.WriteLine("|  ||     ||     |");
                 Console.WriteLine("|__||__|__||__|__|");
 
