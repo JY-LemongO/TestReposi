@@ -566,10 +566,7 @@ namespace RtanTextDungeon
                 Console.WriteLine("|__|.-----..-----.");
                 Console.WriteLine("|__|.-----..-----.");
                 Console.WriteLine("|  ||     ||     |");
-                Console.WriteLine("|__||__|__||__|__|");
-                Console.WriteLine("|  ||     ||     |");
-                Console.WriteLine("|__||__|__||__|__|");
-                Console.WriteLine("|  ||     ||     |");
+                
                 Console.WriteLine("|__||__|__||__|__|");
 
                 Console.ForegroundColor = ConsoleColor.Green;
