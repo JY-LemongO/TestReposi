@@ -562,11 +562,7 @@ namespace RtanTextDungeon
             bool fullCondition = player.Hp == player.MaxHp;
             while (true)
             {                
-                Console.WriteLine(" __               ");
-                Console.WriteLine("|__|.-----..-----.");
-                Console.WriteLine("|__|.-----..-----.");
-                Console.WriteLine("|  ||     ||     |");
-                Console.WriteLine("|__||__|__||__|__|");
+                
 
                 Console.ForegroundColor = ConsoleColor.Green;
                 Console.WriteLine("==================[여 관]==================");
